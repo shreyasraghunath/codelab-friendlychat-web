@@ -7,7 +7,7 @@
  * 4. Copy the config object snippet, then add it here.
  */
 const config = {
-  apiKey: "AIzaSyCA9eL5vzwTk8wPDAO1gsm1I4fNJo-Kk9Q",
+  apiKey: "",
   authDomain: "friendlychat-a1ff2.firebaseapp.com",
   projectId: "friendlychat-a1ff2",
   storageBucket: "friendlychat-a1ff2.appspot.com",
